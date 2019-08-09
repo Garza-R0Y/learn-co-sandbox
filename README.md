@@ -1,5 +1,6 @@
 funtion donothing() {}
-function sayhello() {console.log("hello")}
+function sayHello() {console.log('hello!'')}
+
 Hi! 👋
 
 You've opened the IDE Sandbox, an environment that you can access on "readme" and "code-along" lessons in Learn. It's a great place to experiment with code! 🎉
